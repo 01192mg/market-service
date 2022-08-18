@@ -19,5 +19,6 @@ public interface PostRepository extends JpaRepository<Post, Long>{
     List<Post> findAllByMember(Member member);
 
     List<Post> findAllByMemberAndBookmark(Member member, Bookmark bookmark);
+    List<Post> findAllByOrderByCreatedAtDesc();
 
 }

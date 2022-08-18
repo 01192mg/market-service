@@ -91,7 +91,7 @@ public class PostService {
     }
 
     public ResponseDto<?> getAllPosts(UserDetails userInfo) {
-        List<Post> posts = postRepository.findAll();
+        List<Post> posts = postRepository.findAllByOrderByCreatedAtDesc();
         List<PostResponseDto> postResponseDtoList = new ArrayList<>();
 
         for(Post post : posts) {
