@@ -2,28 +2,36 @@
 
 - 사용하지 않는 물건을 공유하는 사이트
 
-* [당근 나라](https://carrotcountry.netlify.app/)
+* [시연 영상](https://www.youtube.com/watch?v=hZqWDskzucQ)
+
+https://user-images.githubusercontent.com/80199125/186281425-ae50c122-9fac-4e76-8f2e-7bcfa66844be.mp4
+<hr/>
 
 ### 🥕 당근 나라 🥕
-
-메인 화면
-![image](https://user-images.githubusercontent.com/74712195/185373766-2e0e8348-c5c2-465c-8842-305f2bf793c6.png)
-게시글 상세 화면
-![image](https://user-images.githubusercontent.com/74712195/185374593-db41d8f7-8b0b-45c7-a247-16db7ea4d1cc.png)
+<details>
+<summary>메인 화면</summary>
+<div markdown="1">       
+  <img width="1217" alt="main" src="https://user-images.githubusercontent.com/80199125/185464613-197b507c-5970-4b0b-90f9-01aa85257e2a.png">
+</div>
+</details>
+<details>
+<summary>게시글 상세 화면</summary>
+<div markdown="1">       
+  <img src="https://user-images.githubusercontent.com/74712195/185374593-db41d8f7-8b0b-45c7-a247-16db7ea4d1cc.png">
+</div>
+</details>
+<hr/>
 
 ### 와이어프레임
-----------------------------------------------------
 ![image](https://github.com/minimi61/week-6-mini-react/blob/mini/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%841.png)
 ![image](https://github.com/minimi61/week-6-mini-react/blob/mini/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%842.png)
 <br/>
-<br/>
-<br/>
-
-### 📆 프로젝트 기간
+<hr/>
+<h3> 📆 프로젝트 기간 </h3>
 
 - 2022/08/12 ~ 2022/08/18
-
-### 💻 기술 스택
+<hr/>
+<h3> 💻 기술 스택 </h3>
 
 <br/>
 <div style="display: inline;">
@@ -46,8 +54,9 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
+<hr/>
+<h3> 🔧 주요 기능 </h3>
 
-### 🔧 주요 기능
 회원
 - 로그인, 로그아웃, 회원가입
 
@@ -59,10 +68,10 @@
 
 북마크
 - 북마크 추가, 삭제, 북마크한 게시글 표시
+<hr/>
 
 ### 🥕API
 https://angry-pail-4f3.notion.site/3f7ac5e6ad8c4a4fa61665c36a0f8ce4?v=abf7217546cd423d90820ca1eb126fb1
-
 
 <hr/>
 
